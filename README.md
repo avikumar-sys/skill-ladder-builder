@@ -33,3 +33,11 @@ pip install -r requirements.txt
 Here’s the Skill Ladder Builder in action:
 
 ![Career Ladder Visualization](docs/ladder_demo.png)
+
+ROI chart view:
+
+![ROI Chart](docs/roi_chart.png)
+
+Certificate table view:
+
+![Certificate Table](docs/certificate_table.png)
