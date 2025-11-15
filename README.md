@@ -26,5 +26,3 @@ It loads datasets of industry‑recognized certificates, calculates ROI scores, 
 git clone https://github.com/avikumar-sys/skill-ladder-builder.git
 cd skill-ladder-builder
 pip install -r requirements.txt
-
-![Career Ladder Visualization](docs/ladder_demo.png)
