@@ -1,9 +1,28 @@
-<<<<<<< HEAD
-\# Skill Ladder Builder
 
+# 📈 Skill Ladder Builder
 
+An interactive Streamlit app to design career‑oriented certification pathways.  
+It loads datasets of industry‑recognized certificates, calculates ROI scores, sequences them into ladders (Beginner → Intermediate → Advanced), and visualizes progression.
 
-=======
-# skill-ladder-builder
-Skill Ladder Builder is an interactive Streamlit app that helps learners and professionals design career‑oriented certification pathways. It loads a dataset of industry‑recognized certificates, calculates ROI scores, sequences them into a ladder (Beginner → Intermediate → Advanced), and visualizes progression with clear plots.
->>>>>>> 6c89d6d38bc847e632b8315b486d190bf85b93bf
+---
+
+## ✨ Features
+- **Data Loader (`fetch.py`)** – imports certificate datasets.
+- **Scoring Engine (`score.py`)** – assigns ROI scores based on issuer credibility, cost, duration, and level.
+- **Ladder Sequencer (`map.py`)** – orders certificates into a structured career path.
+- **Visualization (`export.py`)** – generates scatter plots of ROI vs. step.
+- **Streamlit UI (`streamlit_app.py`)** – interactive web interface with tables and charts.
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Python 3.11+
+- pip
+
+### Installation
+```bash
+git clone https://github.com/avikumar-sys/skill-ladder-builder.git
+cd skill-ladder-builder
+pip install -r requirements.txt
