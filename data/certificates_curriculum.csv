@@ -1,0 +1,5 @@
+domain,certificate,level,issuer,cost,duration_hours,tags
+Data Science,Google Data Analytics,Beginner,Google,Free,120,spreadsheets;sql;visualization
+Data Science,IBM Data Science Professional,Intermediate,IBM,Free,80,python;pandas;ml
+AI Engineer,Azure AI Fundamentals,Beginner,Microsoft,Free,20,azure;ai;cloud
+Cybersecurity,Google Cybersecurity,Beginner,Google,Free,100,security;networks;tool

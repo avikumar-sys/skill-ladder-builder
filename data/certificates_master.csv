@@ -1,5 +1,7 @@
-domain,certificate,level,issuer,cost,duration_hours,tags
-Data Science,Google Data Analytics,Beginner,Google,Free,120,spreadsheets;sql;visualization
-Data Science,IBM Data Science Professional,Intermediate,IBM,Free,80,python;pandas;ml
-AI Engineer,Azure AI Fundamentals,Beginner,Microsoft,Free,20,azure;ai;cloud
-Cybersecurity,Google Cybersecurity,Beginner,Google,Free,100,security;networks;tools
+name,issuer,cost,duration_weeks,level,target_roles,roi_score,issuer_cred,demand_score
+Azure AI Fundamentals,Microsoft,0,4,Beginner,AI Engineer,0.79,0.9,0.8
+Google Cybersecurity,Google,0,6,Beginner,Cybersecurity Analyst,0.72,0.85,0.75
+IBM Data Science Professional,IBM,0,8,Intermediate,Data Scientist,0.82,0.95,0.9
+AWS Machine Learning Specialty,AWS,150,10,Advanced,AI Engineer,0.88,0.92,0.85
+Coursera Generative AI Specialization,Coursera,0,6,Intermediate,AI Engineer,0.81,0.87,0.83
+CompTIA Security+,CompTIA,200,12,Intermediate,Cybersecurity Analyst,0.76,0.89,0.78
